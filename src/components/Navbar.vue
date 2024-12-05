@@ -1,11 +1,11 @@
 <template>
-  <header class="header">
+  <nav class="navbar">
     <h1>SouvenWood</h1>
-  </header>
+  </nav>
 </template>
 
 <script>
 export default {
-  name: 'Header',
+  name: 'Navbar',
 };
 </script>

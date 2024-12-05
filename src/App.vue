@@ -1,6 +1,6 @@
 <template>
   <div class="app-container">
-    <Header />
+    <Navbar />
     <main class="main-content">
       <Home />
     </main>
@@ -9,13 +9,13 @@
 </template>
 
 <script>
-import Header from './components/Header.vue';
+import Navbar from './components/Navbar.vue';
 import Footer from './components/Footer.vue';
 import Home from './views/Home.vue';
 
 export default {
   components: {
-    Header,
+    Navbar,
     Footer,
     Home,
   },
