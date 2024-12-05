@@ -1,0 +1,12 @@
+@use './_variables' as *;
+@use './header';
+@use './footer';
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: 'Arial', sans-serif;
+  background-color: $primary-color;
+}
