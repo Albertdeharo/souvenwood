@@ -90,7 +90,6 @@
   .product {
     border: 1px solid #ccc;
     padding: 1rem;
-    border-radius: 5px;
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -33,7 +33,6 @@
   .gallery {
     padding: 2rem;
     text-align: center;
-    background-color: #f9f9f9;
   }
   
   .gallery-grid {

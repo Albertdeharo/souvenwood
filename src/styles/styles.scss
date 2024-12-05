@@ -8,5 +8,7 @@ html, body {
   padding: 0;
   overflow-x: hidden;
   font-family: 'Arial', sans-serif;
-  background-color: $primary-color;
+  background-image: url('./../assets/img/wood-background.jpg');
+  background-size: cover;
+  background-position: center;
 }
